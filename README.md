@@ -1,5 +1,8 @@
+/*
 
--- Data Cleaning Project
+Cleaning Data in SQL Queries
+
+*/
 
 SELECT * FROM NashvilleHousingData.NashvilleHousing;
 
